@@ -47,3 +47,6 @@ print(sum(a))
 
 name = input("Enter your name: ")
 print("Welcome", name)
+
+numbers = [10, 20, 30]
+print("Total:", sum(numbers))
