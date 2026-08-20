@@ -44,3 +44,6 @@ print(type(b))
 
 a=[2,4,5,6,1]
 print(sum(a))
+
+name = input("Enter your name: ")
+print("Welcome", name)
