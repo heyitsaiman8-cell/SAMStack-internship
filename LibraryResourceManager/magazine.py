@@ -1,8 +1,5 @@
 from LibraryResource import LibraryResource
-
-
 class magazine(LibraryResource):
-
     def __init__(self, resource_id, title, author, issue_number):
         super().__init__(resource_id, title, author)
         self.__issue_number = issue_number

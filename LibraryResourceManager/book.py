@@ -1,6 +1,4 @@
 from LibraryResource import LibraryResource
-
-
 class book(LibraryResource):
     def __init__(self, resource_id, title, author, pages):
         super().__init__(resource_id, title, author)
