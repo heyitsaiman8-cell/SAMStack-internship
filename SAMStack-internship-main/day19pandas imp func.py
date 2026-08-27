@@ -33,11 +33,7 @@ data = {
 
 df = pd.DataFrame(data)
 
-result = df.groupby("Department")["Marks"].agg([
-    "mean",
-    "sum",
-    "count"
-])
+result = df.groupby("Department")["Marks"].agg(["mean","sum","count"])
 
 print(result)
 
