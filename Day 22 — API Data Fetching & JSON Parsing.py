@@ -33,7 +33,6 @@ for attempt in range(1, max_retries + 1):
             print("\nPandas DataFrame:")
             print(df)
 
-            # Stop retry loop because request was successful
             break
 
         else:
