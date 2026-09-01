@@ -1,0 +1,12 @@
+Name,Age,Department,Math,Python,Attendance,Study_Hours
+Ali,20,CS,78,85,92,3
+Sara,21,SE,88,90,95,4
+Ahmed,20,CS,65,,80,2
+Ayesha,22,IT,92,87,,5
+Hamza,21,SE,70,75,85,3
+Zara,20,IT,,82,90,4
+Usman,22,CS,55,60,72,2
+Hina,21,SE,95,93,98,5
+Bilal,20,IT,68,70,78,3
+Maham,22,CS,85,88,94,4
+,18,AI,40,20,4,1

@@ -1,0 +1,12 @@
+Name,Age,Department,Math,Python,Attendance,Study_Hours,Total_Marks,Average_Marks,Result
+Ali,20,CS,78.0,85.0,92.0,3,163.0,81.5,Perfect
+Sara,21,SE,88.0,90.0,95.0,4,178.0,89.0,Perfect
+Ahmed,20,CS,65.0,75.0,80.0,2,140.0,70.0,good
+Ayesha,22,IT,92.0,87.0,78.8,5,179.0,89.5,Perfect
+Hamza,21,SE,70.0,75.0,85.0,3,145.0,72.5,good
+Zara,20,IT,73.6,82.0,90.0,4,155.6,77.8,good
+Usman,22,CS,55.0,60.0,72.0,2,115.0,57.5,average
+Hina,21,SE,95.0,93.0,98.0,5,188.0,94.0,Excellent
+Bilal,20,IT,68.0,70.0,78.0,3,138.0,69.0,not bad
+Maham,22,CS,85.0,88.0,94.0,4,173.0,86.5,Perfect
+inha,18,AI,40.0,20.0,4.0,1,60.0,30.0,fail and need to work hard
